@@ -1,1 +1,1 @@
-This repo contains my csv files and notebooks under development
+This repo contains my csv files, data, and notebooks under development
