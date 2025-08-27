@@ -1,0 +1,24 @@
+# Core requirements
+spacy==3.8.7
+transformers==4.54.0
+torch==2.6.0
+numpy==2.0.2
+pandas==2.2.2
+scikit-learn==1.6.1
+tqdm==4.67.1
+matplotlib==3.10.0
+seaborn==0.13.2
+
+# NLP-specific
+negspacy==1.0.0
+fastcoref==2.1.6
+flair==0.13.0
+krippendorff==0.8.1
+
+# Data handling and utility
+datasets==4.0.0
+kagglehub==0.3.12
+pygraphviz==1.12
+
+# SpaCy large English model (installed via URL)
+en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.8.0/en_core_web_lg-3.8.0-py3-none-any.whl
