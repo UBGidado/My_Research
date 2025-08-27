@@ -1,6 +1,6 @@
-## Code
+## Reproducibility Information
 
-The code is organized into the following notebooks, structured under a common directory `supplementary/`:
+The code is organized into the following notebooks, structured under a common directory:
 
 - `notebook_layer1.ipynb` – Contains code for data preprocessing, relation extraction, layer 1 clusters of the relationships
 - `notebook_layer2.ipynb` – Contains analyses layer 1, layer 2 clusters (subclusters of layer 1), visualizations, and statistical analysis
